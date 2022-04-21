@@ -1,1 +1,1 @@
-# kaggle_project
+# kaggle_Titanic
