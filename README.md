@@ -1,4 +1,4 @@
 # kaggle_Titanic
 
 
-![image](https://github.com/BevisJChen/Titanic_from_Disaster_Classification/blob/main/analysis_process.PNG)
+![image](https://github.com/BevisJChen/kaggle_project-/blob/main/Titanic%20-%20Machine%20Learning%20from%20Disaster/analysis_process.png)
